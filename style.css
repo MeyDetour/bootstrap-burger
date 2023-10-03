@@ -1,0 +1,12 @@
+.br{border-radius: 20px;
+}
+.organisation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.titre {
+    font-size: 1.1em;
+    font-weight: bold;
+
+}
